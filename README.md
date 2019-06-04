@@ -9,7 +9,7 @@
 * white List Input Validation
 
 ## Stored Procedures
-[Stored Procedures](https://www.w3schools.com/sql/sql_stored_procedures.asp]
+* [Stored Procedures](https://www.w3schools.com/sql/sql_stored_procedures.asp]
 * installed by the db
 * **NO** dynmaic generated code
 * client references procedure and passes parameters
