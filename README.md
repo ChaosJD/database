@@ -17,8 +17,8 @@
 
 
 ## Neutralisation of sql metacharacters
-* **important** identify all Metacharacters
+* **important** identify all metacharacters
 * double quotes
-* doubles Backslash
+* doubles backslash
 * encapsulate resulting strings in new quotes
 * functions check the nuermic input
